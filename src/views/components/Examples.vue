@@ -13,13 +13,14 @@
         <div class="container shape-container py-0 pb-5">
             <div class="row row-grid justify-content-between align-items-center">
                 <div class="col-lg-6">
-                    <h3 class="display-3 text-white">A beautiful Design System
-                        <span class="text-white">completed with examples</span>
+                    <h3 class="display-3 text-white">A Sophisticated Design to
+                        <span class="text-white">Authenticate yourself</span>
                     </h3>
-                    <p class="lead text-white">The Design System comes with four pre-built pages to help you get started
-                        faster. You can change the text and images and you're good to go. More importantly, looking at
-                        them will give you a picture of what you can built with this powerful Bootstrap 4 Design
-                        System.</p>
+                    <p class="lead text-white">The Design System comes with authntication for you. You can
+                        login yourself by providing your email and password or You can create account to get 
+                        our service. Here also you are provided github and google authentication. So hopefully you 
+                        enjoy the service.
+                    </p>
                     <div class="btn-wrapper">
                         <router-link to="/login" class="btn btn-success">
                             Login Page
